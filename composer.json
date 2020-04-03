@@ -4,7 +4,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "mascot/mascot": "1.0.x@dev",
+        "mascot/mascot": "1.0",
         "symfony/asset": "4.4",
         "symfony/browser-kit": "4.4",
         "symfony/config": "4.4",
@@ -15,7 +15,6 @@
         "symfony/form": "4.4",
         "symfony/monolog-bridge": "4.4",
         "symfony/process": "4.4",
-        "symfony/security": "4.4",
         "symfony/translation": "4.4",
         "symfony/twig-bridge": "4.4",
         "symfony/validator": "4.4"
