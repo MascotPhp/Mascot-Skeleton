@@ -1,7 +1,7 @@
 <?php
 
-use Silex\Provider\MonologServiceProvider;
-use Silex\Provider\WebProfilerServiceProvider;
+use Mascot\Provider\MonologServiceProvider;
+use Mascot\Provider\WebProfilerServiceProvider;
 
 // include the prod configuration
 require __DIR__.'/prod.php';

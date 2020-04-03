@@ -1,6 +1,6 @@
 <?php
 
-use Silex\WebTestCase;
+use Mascot\WebTestCase;
 
 class controllersTest extends WebTestCase
 {
